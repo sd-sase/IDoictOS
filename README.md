@@ -1,5 +1,6 @@
 # IDoictOS
-![image](https://github.com/sd-sase/IDoictOS/assets/40165707/4ac1fdb2-9e30-465d-9166-c0233306cca8)
+![image](https://github.com/user-attachments/assets/6a3f6e20-537d-453a-9e1a-e9ca5659f757)
+
 
     北京哈希安全科技有限公司（哈希安全）是国内最早开始探索SDN、NFV、 SD-WAN、零信任、SASE、分布式云等新一代DOICT信息技术、产品、设计、研发、生产、销售、运营、运维、端到端服务一体化的高新技术企业。
 
